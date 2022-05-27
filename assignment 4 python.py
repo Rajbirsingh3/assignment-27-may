@@ -1,6 +1,6 @@
 #Assignment 4
-#Name: Navodit Gupta
-#SID: 21107082
+#Name: RAJBIR SINGH
+#SID: 21107022
 #Branch: Mechanical
 print("Q1")
 while True:
